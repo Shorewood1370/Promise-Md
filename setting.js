@@ -46,14 +46,14 @@ global.idsal = "https://whatsapp.com/channel/0029VbAIrZ772WU5Foi3sR3E"
 // ====================== \\
 
 // SETTING IN OWNER NAME AND NUMBER OWNER \\
-global.ownername = 'ᏢᎡϴᎷᏆՏᎬ' // Owner Name
-global.owner = ['2348166546725'] // Nomor Owner
+global.ownername = 'DAVID' // Owner Name
+global.owner = ['2348109243618'] // Nomor Owner
 global.botname = '𝐏𝐑𝐎𝐌𝐈𝐒𝐄 𝐌𝐃 𝐕𝟏'// Nama Bot
 // ====================== \\
 
 // SETTING IN WM \\
-global.packname = '𝐏𝐑𝐎𝐌𝐈𝐒𝐄 𝐌𝐃 𝐕𝟏'// Name Sticker
-global.author = `ᏢᎡϴᎷᏆՏᎬ` // Name Sticker 
+global.packname = '𝕵𝖊 𝖛𝖔𝖎𝖘 𝖘𝖙𝖎𝖈𝖐𝖊𝖗 𝖕𝖆𝖈𝖐'// Name Sticker
+global.author = `𝕯𝖆𝖛𝖎𝖉` // Name Sticker 
 global.hiasan = `	◦  ` // let it go, if you change, the error, you can't fix
 global.prefa = ['','!','.',',','🐤','🗿'] // let it be
 global.sessionName = 'inisession' // don't worry
@@ -65,7 +65,7 @@ global.gris = '`'
 global.wm = `𝐏𝐑𝐎𝐌𝐈𝐒𝐄 𝐌𝐃 𝐕𝟏` // Change if you like
 global.namaStore = 'Promise Store' // Change if you like
 global.ownerStore = 'Promise Store' // Change if you like
-global.autobio = true // true if directly on false if off
+global.autobio = false // true if directly on false if off
 global.autoread = false // True Jika Langsung On False Jika On
 global.thumbnail = 'https://files.catbox.moe/3pjzig.jpg' // Sure you cahnge if you like
 // ====================== \\
@@ -85,9 +85,9 @@ global.apitokendo = ''
 // ====================== \\
 
 // SETTING AZA \\
-global.bankowner = "Benjamin Ogheneovo"
-global.banknumber = "8166546725"
-global.bankname = "Opay"
+global.bankowner = "DAVID"
+global.banknumber = "2240483162"
+global.bankname = "UBA"
 // ================================ \\
 
 // MESSAGE OTOMATISED \\
